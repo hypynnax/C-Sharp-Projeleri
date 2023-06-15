@@ -1,0 +1,10 @@
+C:\Users\hypyn\source\repos\SinavSureHesaplama\SinavSureHesaplama\bin\Debug\SinavSureHesaplama.exe.config
+C:\Users\hypyn\source\repos\SinavSureHesaplama\SinavSureHesaplama\bin\Debug\SinavSureHesaplama.exe
+C:\Users\hypyn\source\repos\SinavSureHesaplama\SinavSureHesaplama\bin\Debug\SinavSureHesaplama.pdb
+C:\Users\hypyn\source\repos\SinavSureHesaplama\SinavSureHesaplama\obj\Debug\SinavSureHesaplama.csprojAssemblyReference.cache
+C:\Users\hypyn\source\repos\SinavSureHesaplama\SinavSureHesaplama\obj\Debug\SinavSureHesaplama.sinavSuresiHesaplama.resources
+C:\Users\hypyn\source\repos\SinavSureHesaplama\SinavSureHesaplama\obj\Debug\SinavSureHesaplama.Properties.Resources.resources
+C:\Users\hypyn\source\repos\SinavSureHesaplama\SinavSureHesaplama\obj\Debug\SinavSureHesaplama.csproj.GenerateResource.cache
+C:\Users\hypyn\source\repos\SinavSureHesaplama\SinavSureHesaplama\obj\Debug\SinavSureHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\hypyn\source\repos\SinavSureHesaplama\SinavSureHesaplama\obj\Debug\SinavSureHesaplama.exe
+C:\Users\hypyn\source\repos\SinavSureHesaplama\SinavSureHesaplama\obj\Debug\SinavSureHesaplama.pdb
